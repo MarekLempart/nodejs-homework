@@ -16,6 +16,9 @@
   "keywords": [],
   "author": "Marek Lempart",
   "license": "ISC",
+  "dependencies": {
+    "is-number-object": "^1.0.7"
+  },
   "devDependencies": {
     "nodemon": "^3.1.3"
   }
