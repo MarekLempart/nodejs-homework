@@ -1,0 +1,22 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "Kurs NodeJS homework",
+  "homepage": "https://MarekLempart.github.io/nodejs-homework/",
+  "main": "index.js",
+  "scripts": {
+    "homework-01": "node homework-01/app.js",
+    "homework-02": "node homework-02/app.js",
+    "homework-03": "node homework-03/app.js",
+    "homework-04": "node homework-04/app.js",
+    "homework-05": "node homework-05/app.js",
+    "homework-06": "node homework-06/app.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Marek Lempart",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
