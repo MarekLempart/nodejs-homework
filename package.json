@@ -11,7 +11,8 @@
     "homework-04": "node homework-04/app.js",
     "homework-05": "node homework-05/app.js",
     "homework-06": "node homework-06/app.js",
-    "start": "node index.js"
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "Marek Lempart",
